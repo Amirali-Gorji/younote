@@ -1,5 +1,7 @@
 # Younote
 
+A simple note and todo app with django 
+
 ### Built With
 * [Django](https://www.djangoproject.com/) - Base Web Framework
 * [Django REST framework (DRF)](https://www.django-rest-framework.org/) - for Building Web APIs
