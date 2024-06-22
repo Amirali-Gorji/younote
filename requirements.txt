@@ -1,0 +1,7 @@
+# Django & Django-rest
+Django==5.0.6
+djangorestframework==3.15.2
+
+
+# API Documentation
+drf-yasg==1.21.7
