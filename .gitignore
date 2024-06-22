@@ -1,0 +1,6 @@
+# envs
+/venv
+/env
+
+# Database
+db.sqlite3
