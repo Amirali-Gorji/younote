@@ -1,6 +1,13 @@
-# envs
+# Envs
 /venv
 /env
 
 # Database
 db.sqlite3
+
+# Python
+*.pyc
+
+# Static and media
+static/
+upload/
