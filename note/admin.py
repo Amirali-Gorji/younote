@@ -1,3 +1,15 @@
 from django.contrib import admin
 
-# Register your models here.
+from note.models import (
+    NoteBook,
+    Task
+)
+
+@admin.register(NoteBook)
+class NoteBookAdmin(admin.ModelAdmin):
+    pass
+
+
+@admin.register(Task)
+class NoteBookAdmin(admin.ModelAdmin):
+    pass
